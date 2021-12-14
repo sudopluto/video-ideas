@@ -1,15 +1,27 @@
 # video-ideas
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
-- linux
+- selected / wip
     - rival 3 rgb config
+    - advent of code codewalks
+    - shogi video
+
+- on deck
     - t480 fingerprint setup
     - obs studio wayland
     - how long ive been using fedora
+
+- linux
     - stream anime with subs over wifi gnome
+        - linked to below
+    - xr1 and ps4 reviewish type thing
+        - linked to above
+    - whats in my basrc + vimrc
+    - how to make fedora look like ubuntu
+    - how to make youtube videos
+    - linux news weekly?
 
 - programming
-    - advent of code streams
     - past advent of code
     - exercism
     - rosetta code projects
@@ -31,15 +43,19 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - flow chart
         - really need to mesh out
     - analysis of study for careers
+    - what's in your wallet?
+        - what credit cards do i have
+        - what accounts I have 
 
 - consume
-    - shogi video
     - game of thrones board game video
-    - coffee video 
     - switch / handheld gaming video
 
 - travel
     - bvi montage
+    - how i prepped for study abroad
+    - how to color correct scuba footage
+    - future travels
 
 - millitary
     - what its like to apply to be an officer
@@ -58,6 +74,7 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - all internships
     - gre prep?
         - then into online masters?
+    - why is it so hard to date as a cs major
 
 - gaming
     - shogi
