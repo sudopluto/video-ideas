@@ -1,21 +1,29 @@
 # video-ideas
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
-- selected / wip
+- publish queue
+
+- editing
+
+- recording
+    - xr1 video
+    - dlna gnome + ps4 video
+
+- selected
+    - xp-pen config
     - rival 3 rgb config
+    - switch video
     - advent of code codewalks
-    - shogi video
+    - hyper x alloy orgins lube + foam
+    - snowman mt6 + 
 
 - on deck
     - t480 fingerprint setup
     - obs studio wayland
     - how long ive been using fedora
+    - shotcut basics
 
 - linux
-    - stream anime with subs over wifi gnome
-        - linked to below
-    - xr1 and ps4 reviewish type thing
-        - linked to above
     - whats in my basrc + vimrc
     - how to make fedora look like ubuntu
     - how to make youtube videos
@@ -36,6 +44,7 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - computer graphics but in golang book
         - video series but cherno game engine?
     - contribute to gnome?
+        - kde, libreoffice, hardware stuffs
 
 - money money
     - mega guide for finances
@@ -66,9 +75,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - astb and afoqt prep
 
 - student
-    - apt tour
-    - good bye neu montage
-        - based on afterglow montage
     - my time as an neu student
         - all courses
         - all internships
