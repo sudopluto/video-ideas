@@ -4,14 +4,14 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - publish queue
 
 - editing
-
-- recording
     - xr1 video
     - dlna gnome + ps4 video
 
-- selected
-    - xp-pen config
+- recording
     - hyper x alloy orgins lube + foam
+
+- selected
+    - minecraft flatpak + mods
     - advent of code codewalks
 
 - on deck
