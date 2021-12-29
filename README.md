@@ -11,11 +11,8 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 
 - selected
     - xp-pen config
-    - rival 3 rgb config
-    - switch video
-    - advent of code codewalks
     - hyper x alloy orgins lube + foam
-    - snowman mt6 + 
+    - advent of code codewalks
 
 - on deck
     - t480 fingerprint setup
@@ -80,6 +77,7 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - all internships
     - gre prep?
         - then into online masters?
+    - xp-pen config
     - why is it so hard to date as a cs major
 
 - gaming
