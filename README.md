@@ -4,21 +4,40 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - publish queue
 
 - editing
-    - xr1 video
     - dlna gnome + ps4 video
 
 - recording
-    - hyper x alloy orgins lube + foam
+    - obs studio wayland
 
 - selected
+    - mega guide for finances
+        - what is compounding
+        - flow chart
+        - really need to mesh out
+    - how long ive been using fedora
     - minecraft flatpak + mods
-    - advent of code codewalks
+    - kepubify
+    - what does the future of (desktop) linux look like
+        - wayland, flatpak, gnome and kde
 
 - on deck
+    - gmk mecha 01 alternatives
+    - how to buy from aliexpress
     - t480 fingerprint setup
-    - obs studio wayland
-    - how long ive been using fedora
     - shotcut basics
+    - advent of code codewalks
+    - mpv config & why you should use it
+    - why don't i play (multiplayer) games anymore
+
+- on hold
+    - hyper x alloy orgins lube + foam
+    - upgrading my old pc (series)
+        - aliexpress cpu cooler and fans
+        - aliexpress gpu
+        - nvme hacks w/ mobo
+        - putting it all together
+    - retroid game console
+    - ps classic hacks
 
 - linux
     - whats in my basrc + vimrc
@@ -44,27 +63,25 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - kde, libreoffice, hardware stuffs
 
 - money money
-    - mega guide for finances
-        - what is compounding
-        - flow chart
-        - really need to mesh out
     - analysis of study for careers
     - what's in your wallet?
         - what credit cards do i have
         - what accounts I have 
 
 - consume
-    - game of thrones board game video
-    - switch / handheld gaming video
+    - why video game / anime / tv reviewers food reviewers are lame
+        - influencers disguised as intellectuals, no better than red pill /
+        ben shapiro
 
 - travel
     - bvi montage
-    - how i prepped for study abroad
+    - how i prepped for study abroad => tickets & money
     - how to color correct scuba footage
     - future travels
+    - go pro knockoff review / setup?
+    - vlogs for day trips?
 
 - millitary
-    - what its like to apply to be an officer
     - fitness challenge
         - seal
         - marsoc
@@ -77,13 +94,13 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - all internships
     - gre prep?
         - then into online masters?
-    - xp-pen config
-    - why is it so hard to date as a cs major
 
 - gaming
     - shogi
     - axis and allies / game of thrones
     - strategy games like eu4 / hoi4?
     - single player games w/ story
-
+    - maybe planetside 2
+    - maybe a minecraft playthrough
+    - tf2, insurgency, maybe dota
 
