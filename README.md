@@ -6,14 +6,14 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - editing
 
 - recording
-    - obs studio wayland
-    - shotcut wayland + vaapi
-
-- selected
+    - shotcut + obs-studio wayland + vaapi
     - mega guide for finances
         - what is compounding
         - flow chart
         - really need to mesh out
+
+- selected
+    - gmk mecha 01 alternatives
     - how long ive been using fedora
     - minecraft flatpak + mods
     - kepubify
@@ -21,7 +21,7 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - wayland, flatpak, gnome and kde
 
 - on deck
-    - gmk mecha 01 alternatives
+    - golang / coding interviews
     - how to buy from aliexpress
     - t480 fingerprint setup
     - shotcut basics
