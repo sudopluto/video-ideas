@@ -1,22 +1,15 @@
 # video-ideas
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
-- recording
-    - gmk mecha 01 alternatives / how to buy keycaps / keeb off of aliexpress
-    - how to color correct scuba footage
 
 - on deck
     - kepubify + kobo ereader
-    - why fedora is the new ubuntu
-    - how to make fedora look like ubuntu
+    - my time as an neu student
 
 - korea branch
-    - how i prepped for study abroad => tickets & money
     - bvi montage
     - whats in my basrc + vimrc
     - golang / coding interviews
-    - my time as an neu student
-
 
 ++++++
 
@@ -42,8 +35,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - why don't i play (multiplayer) games anymore
 
 - on hold
-    - what does the future of (desktop) linux look like
-        - wayland, flatpak, gnome and kde
     - hyper x alloy orgins lube + foam
     - ps classic hacks
     - why im not a pc gammer anymore?
