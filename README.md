@@ -1,43 +1,38 @@
 # video-ideas
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
+- to publish
+  - vaapi shotcut
 
-- on deck
-    - kepubify + kobo ereader
-    - my time as an neu student
-
-- korea branch
-    - bvi montage
-    - whats in my basrc + vimrc
-    - golang / coding interviews
-
-++++++
 
 - to upload
-    - upgrading my old pc (series)
-        - aliexpress cpu cooler and fans
-        - aliexpress gpu
-        - nvme hacks w/ mobo
-        - putting it all together
-    - minecraft with mods
 
 - editing
+    - aliexpress gpu
 
 - recording
-
-- selected
+    - eva ssd enclosure
+    - saying goodbye to 9 year old pc
+    - setting up minisforum
+    - hyper x alloy orgins lube + foam
+    - retroid setup guide
 
 - on deck
-    - the tatami galaxy sequel hype
-        - mini book review
-    - shotcut basics
-    - advent of code codewalks
-    - why don't i play (multiplayer) games anymore
+    - final setup video
+
+- selected
+    - kepubify + kobo ereader
+    - whats in my basrc + vimrc
+    - my time as an neu student
 
 - on hold
-    - hyper x alloy orgins lube + foam
+    - shotcut basics
     - ps classic hacks
     - why im not a pc gammer anymore?
+    - golang / coding interviews
+    - why don't i play (multiplayer) games anymore
+    - the tatami galaxy sequel hype
+        - mini book review
 
 - linux
     - how to make youtube videos
@@ -69,8 +64,8 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - what credit cards do i have
 
 - travel
-    - future travels
-        - south korea
+    - south korea
+    - bvi
 
 - millitary
     - fitness challenge
