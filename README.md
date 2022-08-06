@@ -2,7 +2,6 @@
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
 - to publish
-  - vaapi shotcut
 
 
 - to upload
@@ -11,10 +10,9 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - aliexpress gpu
 
 - recording
-    - eva ssd enclosure
+    - hyper x alloy orgins lube + foam
     - saying goodbye to 9 year old pc
     - setting up minisforum
-    - hyper x alloy orgins lube + foam
     - retroid setup guide
 
 - on deck
@@ -35,15 +33,15 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - mini book review
 
 - linux
+    - linux news weekly?
     - how to make youtube videos
         - obs, audacity, shotcut, ffmpeg
-    - linux news weekly?
 
 - programming
-    - past advent of code
-    - exercism
-    - leetcode / coding interview
-        - stream?
+    - programming streams?
+        - past advent of code
+    	- exercism
+    	- leetcode / coding interview
     - rosetta code projects
         - python3-validity but in go or cpp
         - kepubify but with gtk gui
@@ -79,6 +77,8 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - maybe the irl army special forces natguard test?
 
 - student
+    - my years at neu
+    - afoqt prep
     - gre prep?
         - then into online masters?
 - gaming
