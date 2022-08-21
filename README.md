@@ -7,12 +7,9 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - to upload
 
 - editing
-    - aliexpress gpu
 
 - recording
     - hyper x alloy orgins lube + foam
-    - saying goodbye to 9 year old pc
-    - setting up minisforum
     - retroid setup guide
 
 - on deck
@@ -26,7 +23,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - on hold
     - shotcut basics
     - ps classic hacks
-    - why im not a pc gammer anymore?
     - golang / coding interviews
     - why don't i play (multiplayer) games anymore
     - the tatami galaxy sequel hype
