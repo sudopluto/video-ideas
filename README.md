@@ -9,16 +9,19 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - editing
 
 - recording
+    - setting up fedora / linux
     - hyper x alloy orgins lube + foam
     - retroid setup guide
 
 - on deck
     - final setup video
+    - jetson nano guide / showcase
+    - whats in my basrc + vimrc
+    - linux news weekly?
 
 - selected
     - kepubify + kobo ereader
-    - whats in my basrc + vimrc
-    - my time as an neu student
+    - my time as an neu student (wait for a degree?)
 
 - on hold
     - shotcut basics
@@ -29,7 +32,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - mini book review
 
 - linux
-    - linux news weekly?
     - how to make youtube videos
         - obs, audacity, shotcut, ffmpeg
 
@@ -73,7 +75,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - maybe the irl army special forces natguard test?
 
 - student
-    - my years at neu
     - afoqt prep
     - gre prep?
         - then into online masters?
