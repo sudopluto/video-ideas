@@ -2,26 +2,30 @@
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
 - to publish
-
+    - setting up fedora / linux
+    - hyper x alloy orgins lube + foam
 
 - to upload
 
 - editing
 
 - recording
-    - setting up fedora / linux
-    - hyper x alloy orgins lube + foam
+    - whats in my basrc + vimrc
     - retroid setup guide
+    - jetson nano guide / showcase
 
 - on deck
     - final setup video
-    - jetson nano guide / showcase
-    - whats in my basrc + vimrc
     - linux news weekly?
 
 - selected
     - kepubify + kobo ereader
     - my time as an neu student (wait for a degree?)
+    - exercism series
+        - rust
+        - golang
+        - cpp
+        - python
 
 - on hold
     - shotcut basics
