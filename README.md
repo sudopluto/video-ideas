@@ -2,8 +2,6 @@
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
 - to publish
-    - setting up fedora / linux
-    - hyper x alloy orgins lube + foam
 
 - to upload
 
