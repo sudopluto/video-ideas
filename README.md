@@ -2,28 +2,50 @@
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
 - to publish
+    - hyper x alloy orgins lube + foam
 
 - to upload
 
 - editing
 
 - recording
+    - wfh setup video
     - whats in my basrc + vimrc
-    - retroid setup guide
-    - jetson nano guide / showcase
+    - my time as an neu student (wait for a degree?)
 
 - on deck
-    - final setup video
-    - linux news weekly?
-
-- selected
     - kepubify + kobo ereader
-    - my time as an neu student (wait for a degree?)
-    - exercism series
-        - rust
-        - golang
-        - cpp
-        - python
+
+- backlog (still interested)
+    - jetson nano guide / showcase
+    - retroid setup guide
+
+- backup / creatively broke
+    - linux news videos
+    - cyber security 
+    - day in the life swe
+        - wfh with parents
+        - wfh in seattle
+        - working in office from seattle
+    - wHAt LaNGuAge tO LeArn in 202X
+
+- software engineering / cs major
+    - what i learned from my internships
+    - how to teach yourself computer science
+    - while i like exercism (i do it every night meme)
+        - how to level up as a software engineer
+    - best clubs to join as a cs major
+    - why i'm moving to seattle
+    - analyzing cities to live in as swe
+    - analyzing countries to live in as swe
+    - evaluating and ranking college majors
+        - tier list time baby
+    - reading / book list
+    - mit missing semester errata
+        - eli5 git
+        - eli5 vim
+        - eli5 linux
+    - best laptops for swe / cs majors
 
 - on hold
     - shotcut basics
@@ -34,36 +56,51 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - mini book review
 
 - linux
-    - how to make youtube videos
+    - how to make youtube videos on linux
         - obs, audacity, shotcut, ffmpeg
+    - nonabaro linux distro
+    - trying steam deck distro
+    - cool programs in linux
+        - sl & git
+        - gnu stow
+        - mpv
+        - yt-dlp
+        - asciiacquarium
+        - cbonsai
+        - cli-fireplace
+        - tig
 
 - programming
     - programming streams?
         - past advent of code
     	- exercism
     	- leetcode / coding interview
-    - rosetta code projects
-        - python3-validity but in go or cpp
-        - kepubify but with gtk gui
-            - rewrite backend in something else? rust? cpp?
-        - rewrite of steelseries tool
-            - add gui? same as kepublify
+        - competative programming
     - books office hours
-        - algo book
-        - golang dist sytems book
-        - computer graphics but in golang book
-        - video series but cherno game engine?
-    - contribute to gnome?
-        - kde, libreoffice, hardware stuffs
+        - whichever one i finish first
+    - contribute to linux?
+        - pull requests, rewrites, etc
+    - micheal reaves esque projects :)
+        - vim, but every key is mapped to save and exit
+        - rust but every time build is sucessful crab rave plays
+        - cpp but every time compiler error source file gets corrupted
+        - python but every time you get a whitespace error the script whites out
+        - lisp but everytime a parrenthesis is imbalanced, thanos comes and fixes it
 
 - money money
-    - analysis of study for careers
     - what's in your wallet?
         - what credit cards do i have
+        - what bank accounts do i have
+    - did i beat my robo advisor?
 
 - travel
     - south korea
+        - tips and tricks
+        - photo review (hiking)
     - bvi
+        - scuba footage -> montage
+    - london & europe
+        - tips and tricks
 
 - millitary
     - fitness challenge
@@ -80,9 +117,13 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - afoqt prep
     - gre prep?
         - then into online masters?
+    - online cs masters
+    - gmat & mba prep?
+
 - gaming
     - shogi / chess
-    - ps4 / retroid capture
     - axis and allies / game of thrones
     - strategy games like eu4 / hoi4?
-    - single player games w/ story
+    - board / co-op games
+    - ps4 / retroid capture (stream only)
+        - single player only
