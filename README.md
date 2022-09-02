@@ -2,16 +2,15 @@
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
 - to publish
-    - hyper x alloy orgins lube + foam
 
 - to upload
 
 - editing
 
 - recording
+    - my time as an neu student (wait for a degree?)
     - wfh setup video
     - whats in my basrc + vimrc
-    - my time as an neu student (wait for a degree?)
 
 - on deck
     - kepubify + kobo ereader
@@ -20,14 +19,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - jetson nano guide / showcase
     - retroid setup guide
 
-- backup / creatively broke
-    - linux news videos
-    - cyber security 
-    - day in the life swe
-        - wfh with parents
-        - wfh in seattle
-        - working in office from seattle
-    - wHAt LaNGuAge tO LeArn in 202X
 
 - software engineering / cs major
     - what i learned from my internships
@@ -127,3 +118,12 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - board / co-op games
     - ps4 / retroid capture (stream only)
         - single player only
+
+- backup / creatively broke
+    - linux news videos
+    - cyber security 
+    - day in the life swe
+        - wfh with parents
+        - wfh in seattle
+        - working in office from seattle
+    - wHAt LaNGuAge tO LeArn in 202X
