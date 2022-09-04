@@ -6,26 +6,30 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - to upload
 
 - editing
+    - my time as an neu student (wait for a degree?)
+    - my swe internships
 
 - recording
-    - my time as an neu student (wait for a degree?)
-    - wfh setup video
-    - whats in my basrc + vimrc
 
 - on deck
-    - kepubify + kobo ereader
+    - converting my dotfiles to stow & what's in my rcs
+    - how i program c++ on linux
+        - vim, gnome terminal, codelite
+    - wfh setup video
+    - my summer in korea
+    - best clubs to join as a cs major
 
 - backlog (still interested)
-    - jetson nano guide / showcase
-    - retroid setup guide
-
+    - kepubify + kobo ereader (find ereader?)
+    - jetson nano guide / showcase (powered dock? debug disconnect)
+    - retroid setup guide (capture card, get back from boston)
+    - yiss tips and tricks (hold till winter)
+        - write notes
 
 - software engineering / cs major
-    - what i learned from my internships
     - how to teach yourself computer science
-    - while i like exercism (i do it every night meme)
-        - how to level up as a software engineer
-    - best clubs to join as a cs major
+        - teach yourself cs
+        - open cs univeristy
     - why i'm moving to seattle
     - analyzing cities to live in as swe
     - analyzing countries to live in as swe
@@ -39,17 +43,17 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - best laptops for swe / cs majors
 
 - on hold
-    - shotcut basics
     - ps classic hacks
-    - golang / coding interviews
-    - why don't i play (multiplayer) games anymore
-    - the tatami galaxy sequel hype
-        - mini book review
+    - what's in your wallet?
+        - what credit cards do i have
+        - what bank accounts do i have
 
 - linux
+    - why i use linux (& why you should too)
     - how to make youtube videos on linux
-        - obs, audacity, shotcut, ffmpeg
+        - obs, sound recorder, shotcut, ffmpeg, gimp
     - nonabaro linux distro
+    - why im not using kde & wayland (yet)
     - trying steam deck distro
     - cool programs in linux
         - sl & git
@@ -73,21 +77,22 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - pull requests, rewrites, etc
     - micheal reaves esque projects :)
         - vim, but every key is mapped to save and exit
+        - vim, but every time you try and save and exit, a new split opens
         - rust but every time build is sucessful crab rave plays
         - cpp but every time compiler error source file gets corrupted
         - python but every time you get a whitespace error the script whites out
         - lisp but everytime a parrenthesis is imbalanced, thanos comes and fixes it
 
+- anime
+    - summer time render hype
+    - happy sugar life
+    - the tatami galaxy sequel hype
+        - mini book review
+
 - money money
-    - what's in your wallet?
-        - what credit cards do i have
-        - what bank accounts do i have
     - did i beat my robo advisor?
 
 - travel
-    - south korea
-        - tips and tricks
-        - photo review (hiking)
     - bvi
         - scuba footage -> montage
     - london & europe
@@ -111,13 +116,11 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - online cs masters
     - gmat & mba prep?
 
-- gaming
-    - shogi / chess
+- gaming (prio w/ friends)
+    - learning chess / shogi
     - axis and allies / game of thrones
     - strategy games like eu4 / hoi4?
     - board / co-op games
-    - ps4 / retroid capture (stream only)
-        - single player only
 
 - backup / creatively broke
     - linux news videos
@@ -127,3 +130,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - wfh in seattle
         - working in office from seattle
     - wHAt LaNGuAge tO LeArn in 202X
+    - shogi / chess (stream only)
+    - ps4 / retroid capture (stream only)
+        - single player only
