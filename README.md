@@ -2,22 +2,21 @@
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
 - to publish
+    - my swe internships
 
 - to upload
 
 - editing
-    - my time as an neu student (wait for a degree?)
-    - my swe internships
 
 - recording
+    - best clubs to join as a cs major
 
 - on deck
-    - converting my dotfiles to stow & what's in my rcs
     - how i program c++ on linux
         - vim, gnome terminal, codelite
+    - converting my dotfiles to managed / version control
     - wfh setup video
     - my summer in korea
-    - best clubs to join as a cs major
 
 - backlog (still interested)
     - kepubify + kobo ereader (find ereader?)
