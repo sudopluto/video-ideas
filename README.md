@@ -2,26 +2,31 @@
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
 - to publish
-    - my swe internships
 
 - to upload
 
 - editing
+    - best clubs to join as a cs major
+    - converting my dotfiles to managed / version control
 
 - recording
-    - best clubs to join as a cs major
+    - trying out opensuse microos
+    - cyberpunk 2077 anime
+    - tatami hot tub time machine
+    - kepubify + kobo ereader (find ereader?)
+    - why i'm moving to seattle
 
 - on deck
+    - retroid setup guide
     - how i program c++ on linux
         - vim, gnome terminal, codelite
-    - converting my dotfiles to managed / version control
     - wfh setup video
     - my summer in korea
 
 - backlog (still interested)
-    - kepubify + kobo ereader (find ereader?)
     - jetson nano guide / showcase (powered dock? debug disconnect)
-    - retroid setup guide (capture card, get back from boston)
+        - one version ubuntu
+        - one version opensuse microos
     - yiss tips and tricks (hold till winter)
         - write notes
 
@@ -29,7 +34,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - how to teach yourself computer science
         - teach yourself cs
         - open cs univeristy
-    - why i'm moving to seattle
     - analyzing cities to live in as swe
     - analyzing countries to live in as swe
     - evaluating and ranking college majors
@@ -85,8 +89,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - anime
     - summer time render hype
     - happy sugar life
-    - the tatami galaxy sequel hype
-        - mini book review
 
 - money money
     - did i beat my robo advisor?
