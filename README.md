@@ -2,22 +2,21 @@
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
 - to publish
+    - best clubs to join as a cs major
+    - immutable os 
 
 - to upload
 
 - editing
-    - best clubs to join as a cs major
-    - converting my dotfiles to managed / version control
 
 - recording
-    - trying out opensuse microos
+    - retroid setup guide
     - cyberpunk 2077 anime
     - tatami hot tub time machine
     - kepubify + kobo ereader (find ereader?)
     - why i'm moving to seattle
 
 - on deck
-    - retroid setup guide
     - how i program c++ on linux
         - vim, gnome terminal, codelite
     - wfh setup video
