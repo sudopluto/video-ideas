@@ -2,37 +2,34 @@
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
 - to publish
-    - best clubs to join as a cs major
-    - immutable os 
 
 - to upload
 
 - editing
 
 - recording
-    - retroid setup guide
-    - cyberpunk 2077 anime
-    - tatami hot tub time machine
     - kepubify + kobo ereader (find ereader?)
     - why i'm moving to seattle
-
-- on deck
+    - setup linux news episode 1?
     - how i program c++ on linux
         - vim, gnome terminal, codelite
     - wfh setup video
+
+- on deck
+    - jetson nano guide / showcase (powered dock? debug disconnect)
+        - one version ubuntu
+    - cyberpunk 2077 anime
+    - tatami hot tub time machine
+    - how to teach yourself computer science
+        - teach yourself cs
+        - open cs univeristy
     - my summer in korea
 
 - backlog (still interested)
-    - jetson nano guide / showcase (powered dock? debug disconnect)
-        - one version ubuntu
-        - one version opensuse microos
     - yiss tips and tricks (hold till winter)
         - write notes
 
 - software engineering / cs major
-    - how to teach yourself computer science
-        - teach yourself cs
-        - open cs univeristy
     - analyzing cities to live in as swe
     - analyzing countries to live in as swe
     - evaluating and ranking college majors
