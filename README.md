@@ -16,6 +16,8 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - wfh setup video
 
 - on deck
+    - upgrade with me: fedora 36 to fedora 37
+    - completing all the python exercisms
     - jetson nano guide / showcase (powered dock? debug disconnect)
         - one version ubuntu
     - cyberpunk 2077 anime
