@@ -1,6 +1,10 @@
 # video-ideas
 video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g
 
+- skills needed
+    - better editing / more snappy editing
+    - reduce the ammount of filler words "ummm"
+
 - to publish
 
 - to upload
@@ -8,24 +12,21 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - editing
 
 - recording
-    - kepubify + kobo ereader (find ereader?)
+    - 200 sub special retrospective
     - why i'm moving to seattle
-    - setup linux news episode 1?
-    - how i program c++ on linux
-        - vim, gnome terminal, codelite
-    - wfh setup video
+    - jetson nano guide / showcase (powered dock? debug disconnect)
 
 - on deck
     - upgrade with me: fedora 36 to fedora 37
     - completing all the python exercisms
-    - jetson nano guide / showcase (powered dock? debug disconnect)
-        - one version ubuntu
     - cyberpunk 2077 anime
     - tatami hot tub time machine
     - how to teach yourself computer science
         - teach yourself cs
         - open cs univeristy
     - my summer in korea
+    - setup linux news episode 1?
+    - wfh setup video
 
 - backlog (still interested)
     - yiss tips and tricks (hold till winter)
@@ -76,6 +77,8 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - whichever one i finish first
     - contribute to linux?
         - pull requests, rewrites, etc
+    - programming setup
+        - vim, codelite / kate, clangd, etc
     - micheal reaves esque projects :)
         - vim, but every key is mapped to save and exit
         - vim, but every time you try and save and exit, a new split opens
