@@ -12,12 +12,14 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - editing
 
 - recording
-    - 200 sub special retrospective
     - why i'm moving to seattle
+    - minisforum b550 is trash
+    - yes i run arch linux (tour)
+    - building new pc
+    - car upd
     - jetson nano guide / showcase (powered dock? debug disconnect)
 
 - on deck
-    - upgrade with me: fedora 36 to fedora 37
     - completing all the python exercisms
     - cyberpunk 2077 anime
     - tatami hot tub time machine
@@ -25,8 +27,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - teach yourself cs
         - open cs univeristy
     - my summer in korea
-    - setup linux news episode 1?
-    - wfh setup video
 
 - backlog (still interested)
     - yiss tips and tricks (hold till winter)
@@ -54,7 +54,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - why i use linux (& why you should too)
     - how to make youtube videos on linux
         - obs, sound recorder, shotcut, ffmpeg, gimp
-    - nonabaro linux distro
     - why im not using kde & wayland (yet)
     - trying steam deck distro
     - cool programs in linux
@@ -73,12 +72,12 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     	- exercism
     	- leetcode / coding interview
         - competative programming
+    - learning rust
+    - project / book reviews
     - books office hours
         - whichever one i finish first
     - contribute to linux?
         - pull requests, rewrites, etc
-    - programming setup
-        - vim, codelite / kate, clangd, etc
     - micheal reaves esque projects :)
         - vim, but every key is mapped to save and exit
         - vim, but every time you try and save and exit, a new split opens
