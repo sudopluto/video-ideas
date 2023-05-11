@@ -10,18 +10,21 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - to upload
 
 - editing
+    - kingsener battery t480
+    - t480 thermal paste
+    - cleaning gpu
 
 - recording
-    - why i'm moving to seattle
-    - minisforum b550 is trash
-    - yes i run arch linux (tour)
-    - building new pc
+    - diy keyboard
     - car upd
+    - arch tpm fde
+    - arch secure boot
+    - yes i run arch linux (tour) / chezmoi
     - jetson nano guide / showcase (powered dock? debug disconnect)
+    - knife restoration videos
 
 - on deck
     - completing all the python exercisms
-    - cyberpunk 2077 anime
     - tatami hot tub time machine
     - how to teach yourself computer science
         - teach yourself cs
@@ -45,6 +48,7 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - best laptops for swe / cs majors
 
 - on hold
+    - retroid flip
     - ps classic hacks
     - what's in your wallet?
         - what credit cards do i have
