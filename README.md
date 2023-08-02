@@ -10,18 +10,13 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - to upload
 
 - editing
-    - kingsener battery t480
-    - t480 thermal paste
-    - cleaning gpu
+    - diy keyboard
 
 - recording
-    - diy keyboard
-    - car upd
-    - arch tpm fde
     - arch secure boot
-    - yes i run arch linux (tour) / chezmoi
     - jetson nano guide / showcase (powered dock? debug disconnect)
     - knife restoration videos
+    - watch restoration video
 
 - on deck
     - completing all the python exercisms
@@ -48,7 +43,6 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     - best laptops for swe / cs majors
 
 - on hold
-    - retroid flip
     - ps classic hacks
     - what's in your wallet?
         - what credit cards do i have
@@ -90,9 +84,9 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - python but every time you get a whitespace error the script whites out
         - lisp but everytime a parrenthesis is imbalanced, thanos comes and fixes it
 
+
 - anime
-    - summer time render hype
-    - happy sugar life
+    - sesonal hype?
 
 - money money
     - did i beat my robo advisor?
