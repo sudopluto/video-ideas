@@ -10,10 +10,8 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - to upload
 
 - editing
-    - diy keyboard
 
 - recording
-    - arch secure boot
     - jetson nano guide / showcase (powered dock? debug disconnect)
     - knife restoration videos
     - watch restoration video
