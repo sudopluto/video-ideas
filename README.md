@@ -12,19 +12,33 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - editing
 
 - recording
-    - jetson nano guide / showcase (powered dock? debug disconnect)
-    - knife restoration videos
-    - watch restoration video
+    - life update
+        - cat!
+    - going over analytics / channel
+    - car maintainence
+    - pc upgrades
+    - new thinkpad
+    - new hdd in laptop
+    - uki desktop
+    - fingerprint reader arch
+        - package python validity
+    - advent of code
+    - retroid
+    - evangelion keycaps
 
 - on deck
+    - various codewalks / livecoding
+    - leetcode
     - completing all the python exercisms
-    - tatami hot tub time machine
     - how to teach yourself computer science
         - teach yourself cs
         - open cs univeristy
     - my summer in korea
+    - ps4 ssd
+    - jetson nano guide / showcase (powered dock? debug disconnect)
 
 - backlog (still interested)
+    - tatami hot tub time machine
     - yiss tips and tricks (hold till winter)
         - write notes
 
