@@ -10,23 +10,31 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - to upload
 
 - editing
+    - 2024 end of year pc
 
 - recording
-    - life update
-        - cat!
-    - going over analytics / channel
-    - car maintainence
-    - pc upgrades
-    - new thinkpad
-    - new hdd in laptop
-    - uki desktop
+    - update bios on minisforum pc
+    - ukify arch linux
+    - cachyos repos arch linux
     - fingerprint reader arch
-        - package python validity
-    - advent of code
-    - retroid
-    - evangelion keycaps
 
 - on deck
+    - life update
+        - cat!
+    - going over analytics / channel / comments
+    - car maintainence (need to do radiator work)
+    - rear intake for desktop + benchmarks
+    - new thinkpad
+    - ubuntu x elite new thinkpad
+    - transfer to new hdd in laptop
+    - retroid unboxing & guide
+    - installing rom for old retroid
+    - evangelion keycaps aliexpress
+
+- on hold
+    - jetson nano guide / showcase (powered dock? debug disconnect)
+    - advent of code
+    - tatami hot tub time machine
     - various codewalks / livecoding
     - leetcode
     - completing all the python exercisms
@@ -34,13 +42,7 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - teach yourself cs
         - open cs univeristy
     - my summer in korea
-    - ps4 ssd
-    - jetson nano guide / showcase (powered dock? debug disconnect)
-
-- backlog (still interested)
-    - tatami hot tub time machine
-    - yiss tips and tricks (hold till winter)
-        - write notes
+    - my hiking trip in india
 
 - software engineering / cs major
     - analyzing cities to live in as swe
@@ -53,14 +55,14 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
         - eli5 vim
         - eli5 linux
     - best laptops for swe / cs majors
-
-- on hold
-    - ps classic hacks
-    - what's in your wallet?
-        - what credit cards do i have
-        - what bank accounts do i have
+    - job search
 
 - linux
+    - gnome and kde immutable distros (get involved)
+    - bluefin & coolness of bootc
+    - miracle-wm
+    - cosmic desktop
+    - packaging arch linux for snapdragon
     - why i use linux (& why you should too)
     - how to make youtube videos on linux
         - obs, sound recorder, shotcut, ffmpeg, gimp
@@ -83,17 +85,19 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
     	- leetcode / coding interview
         - competative programming
     - learning rust
+        - retrospective??
     - project / book reviews
     - books office hours
-        - whichever one i finish first
-    - contribute to linux?
-        - pull requests, rewrites, etc
-    - micheal reaves esque projects :)
-        - vim, but every key is mapped to save and exit
-        - vim, but every time you try and save and exit, a new split opens
-        - rust but every time build is sucessful crab rave plays
-        - cpp but every time compiler error source file gets corrupted
-        - python but every time you get a whitespace error the script whites out
+        - build you a lisp
+            - in cpp
+            - hand roll the parser please
+        - ray tracer in a weekend
+            - held back by linear algebra 
+    - contributions to linux / open source?
+        - like this week in kde / gnome but for what i code
+    - micheal reaves esque goofy projects :)
+        - vim but the keys to exit are random every time you launch
+        - rust but every failed build has ascii crab rave
         - lisp but everytime a parrenthesis is imbalanced, thanos comes and fixes it
 
 
@@ -102,12 +106,11 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 
 - money money
     - did i beat my robo advisor?
+    - what's in your wallet?
+        - what credit cards do i have
+        - what bank accounts do i have
 
 - travel
-    - bvi
-        - scuba footage -> montage
-    - london & europe
-        - tips and tricks
 
 - millitary
     - fitness challenge
