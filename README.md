@@ -10,39 +10,44 @@ video ideas for my youtube: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVR
 - to upload
 
 - editing
-    - 2024 end of year pc
+    - update bios on minisforum pc
 
 - recording
-    - update bios on minisforum pc
+    - rear intake for desktop + benchmarks
     - ukify arch linux
     - cachyos repos arch linux
-    - fingerprint reader arch
+    - t480 upgrade
+    - gnome disks disk clone
+    - going over analytics / channel / comments
+        - make new channels
 
 - on deck
-    - life update
-        - cat!
-    - going over analytics / channel / comments
-    - car maintainence (need to do radiator work)
-    - rear intake for desktop + benchmarks
-    - new thinkpad
-    - ubuntu x elite new thinkpad
-    - transfer to new hdd in laptop
+    - fingerprint reader arch
     - retroid unboxing & guide
-    - installing rom for old retroid
+    - retroid android upgrade?
+    - new thinkpad unboxing
     - evangelion keycaps aliexpress
 
 - on hold
+    - zeditor
+    - ubuntu x elite new thinkpad
+    - car maintainence (need to do radiator work)
+    - life update
+        - cat!
     - jetson nano guide / showcase (powered dock? debug disconnect)
-    - advent of code
-    - tatami hot tub time machine
-    - various codewalks / livecoding
-    - leetcode
+    - advent of code walks
+        - catchup to day 5
+
+- backlog (still interested)
+    - hiking in india
     - completing all the python exercisms
     - how to teach yourself computer science
         - teach yourself cs
         - open cs univeristy
     - my summer in korea
-    - my hiking trip in india
+        - yiss tips and tricks (hold till winter)
+        - write notes
+    - tatami hot tub time machine
 
 - software engineering / cs major
     - analyzing cities to live in as swe
